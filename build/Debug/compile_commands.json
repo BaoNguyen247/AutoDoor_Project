@@ -1,0 +1,218 @@
+[
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\Prog_manager.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\Prog_manager.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\Prog_manager.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\Prog_manager.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\action.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\action.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\action.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\action.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\gpio_module.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\gpio_module.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\gpio_module.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\gpio_module.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\keypad.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\keypad.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\keypad.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\keypad.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\lcd_module.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\lcd_module.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\lcd_module.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\lcd_module.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\main.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\main.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\sensor_module.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\sensor_module.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\sensor_module.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\sensor_module.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\stm32h7xx_hal_msp.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\stm32h7xx_hal_msp.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\stm32h7xx_hal_msp.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\stm32h7xx_hal_msp.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\stm32h7xx_it.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\stm32h7xx_it.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\stm32h7xx_it.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\stm32h7xx_it.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\sys_lib.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\sys_lib.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\sys_lib.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\sys_lib.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\syscalls.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\syscalls.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\sysmem.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\sysmem.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\system_stm32h7xx.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\system_stm32h7xx.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\system_stm32h7xx.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\system_stm32h7xx.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\uart1_module.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\uart1_module.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\uart1_module.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\uart1_module.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Core\\Src\\update_module.c.obj -c D:\\IOT\\Final_Bao\\Core\\Src\\update_module.c",
+  "file": "D:\\IOT\\Final_Bao\\Core\\Src\\update_module.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Core\\Src\\update_module.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_cortex.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_i2c_ex.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_gpio.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_hsem.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_mdma.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_exti.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_tim_ex.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_uart.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_uart.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_uart.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_uart.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_uart_ex.c.obj -c D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_uart_ex.c",
+  "file": "D:\\IOT\\Final_Bao\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_uart_ex.c",
+  "output": "CMakeFiles\\Final_Bao.dir\\Drivers\\STM32H7xx_HAL_Driver\\Src\\stm32h7xx_hal_uart_ex.c.obj"
+},
+{
+  "directory": "D:/IOT/Final_Bao/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32H743xx -DUSE_HAL_DRIVER -DUSE_PWR_LDO_SUPPLY -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Core/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -ID:/IOT/Final_Bao/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\Final_Bao.dir\\startup_stm32h743xx.s.obj -c D:\\IOT\\Final_Bao\\startup_stm32h743xx.s",
+  "file": "D:\\IOT\\Final_Bao\\startup_stm32h743xx.s",
+  "output": "CMakeFiles\\Final_Bao.dir\\startup_stm32h743xx.s.obj"
+}
+]
